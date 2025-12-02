@@ -44,3 +44,8 @@ This project implements **SSL pinning** in the iOS app to secure API requests ag
 - Compatible with **iOS 15+** and Xcode 14+.
 - Both pinning methods can be toggled independently.
 - Improves network security and prevents interception from untrusted servers.
+
+### Reference Links
+1. https://owasp.org/www-community/controls/Certificate_and_Public_Key_Pinning
+2. https://bugsee.com/blog/ssl-certificate-pinning-in-mobile-applications/
+
